@@ -18,6 +18,7 @@ Archive Labs is a community-run incubator which supports open access and public 
 
 - Equal and open access
 - Empowerment; helping people reach their full potentials
+- Interoperability; standards which unite us
 - Autonomy
 - Mutual respect
 - Trust; creating a safe place to work
